@@ -1,0 +1,154 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+  
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #c5c3c3;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    font-size: 24px;
+}
+
+.container {
+    max-width: 1400px;
+    padding: 15px;
+    margin: 0 auto;
+}
+  
+ul li {
+    list-style-type: none;
+}
+
+.filter-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px 0;
+}
+
+.view-switcher {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.view-switcher__button {
+    background-color: transparent;
+    border: 1px solid #741818;
+    border-radius: 10px;
+    color: #3e3838;
+    font-family: 'Montserrat', sans-serif;
+    padding: 5px 10px;
+    cursor: pointer;
+    margin-right: 10px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.view-switcher__button.active {
+    background-color: #741818;
+    color: white;
+}
+
+.filter {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.filter-item {
+    color: #3e3838;
+    cursor: pointer;
+    -webkit-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+    position: relative;
+}
+
+.filter-item::after {
+    content: "";
+    display: block;
+    position: absolute;
+    right: 0;
+    bottom: -3px;
+    width: 0;
+    height: 1px;
+    background-color: black;
+    transition: width 0.5s;
+}
+
+.filter-item:hover:after {
+    content: "";
+    width: 100%;
+    display: block;
+    position: absolute;
+    left: 0;
+    bottom: -3px;
+    height: 1px;
+    background-color: #741818;
+    transition: width 0.5s;
+}
+
+.filter-item.active {
+    color: #741818;
+    font-weight: 500;
+}
+
+.filter-item:not(:last-child) {
+    margin-right: 10px;
+}
+
+.card-wrapper {
+    column-count: 6;
+    column-gap: 10px;
+}
+  
+.card-item {
+    margin-bottom: 10px;
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    transition: filter 0.3s ease-in-out;
+    cursor: pointer;
+}
+
+.card-img {
+    width: 100%;
+    height: auto;
+}
+  
+.card-text {
+    font-size: 28px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    color: white;
+    width: 100%;
+    height: auto;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+}
+
+@media screen and (max-width: 1000px) {
+    .card-wrapper {
+        column-count: 3;
+        column-gap: 10px;
+    }
+
+    .view-switcher {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .card-wrapper {
+      column-count: 1;
+      column-gap: 0px;
+    }
+
+}

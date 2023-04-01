@@ -1,0 +1,226 @@
+[
+    {
+        "path": "./img/pic1.jpg",
+        "alt": "photo",
+        "title": "Apples",
+        "tags": "food",
+        "text": "Food pics"
+    },
+    {
+        "path": "./img/pic2.jpg",
+        "alt": "photo",
+        "title": "Snake",
+        "tags": "animals",
+        "text": "Animal pics"
+    },
+    {
+        "path": "./img/pic3.jpg",
+        "alt": "photo",
+        "title": "SeaFood",
+        "tags": "food",
+        "text": "Food pics"
+    },
+    {
+        "path": "./img/pic4.jpg",
+        "alt": "photo",
+        "title": "Bird",
+        "tags": "animals",
+        "text": "Animal pics"
+    },
+    {
+        "path": "./img/pic5.jpg",
+        "alt": "photo",
+        "title": "Nature",
+        "tags": "nature",
+        "text": "Nature pics"
+    },
+    {
+        "path": "./img/pic6.jpg",
+        "alt": "photo",
+        "title": "Forest",
+        "tags": "nature",
+        "text": "Nature pics"
+    },
+    {
+        "path": "./img/pic7.jpg",
+        "alt": "photo",
+        "title": "Road",
+        "tags": "nature",
+        "text": "Nature pics"
+    },
+    {
+        "path": "./img/pic8.jpg",
+        "alt": "photo",
+        "title": "Desert",
+        "tags": "nature",
+        "text": "Nature pics"
+    },
+    {
+        "path": "./img/pic9.jpg",
+        "alt": "photo",
+        "title": "Sea",
+        "tags": "nature",
+        "text": "Nature pics"
+    },
+    {
+        "path": "./img/pic10.jpg",
+        "alt": "photo",
+        "title": "Dolphin",
+        "tags": "animals",
+        "text": "Animal pics"
+    },
+    {
+        "path": "./img/pic11.jpg",
+        "alt": "photo",
+        "title": "Burger",
+        "tags": "food",
+        "text": "Food pics"
+    },
+    {
+        "path": "./img/pic12.jpg",
+        "alt": "photo",
+        "title": "Eagle",
+        "tags": "animals",
+        "text": "Animal pics"
+    },
+    {
+        "path": "./img/pic13.jpg",
+        "alt": "photo",
+        "title": "Forestroad",
+        "tags": "nature",
+        "text": "Nature pics"
+    },
+    {
+        "path": "./img/pic14.jpg",
+        "alt": "photo",
+        "title": "Swan",
+        "tags": "animals",
+        "text": "Animal pics"
+    },
+    {
+        "path": "./img/pic15.jpg",
+        "alt": "photo",
+        "title": "Smog",
+        "tags": "nature",
+        "text": "Nature pics"
+    },
+    {
+        "path": "./img/pic16.jpg",
+        "alt": "photo",
+        "title": "Wave",
+        "tags": "nature",
+        "text": "Nature pics"
+    },
+    {
+        "path": "./img/pic5.jpg",
+        "alt": "photo",
+        "title": "Nature",
+        "tags": "nature",
+        "text": "Nature pics"
+    },
+    {
+        "path": "./img/pic1.jpg",
+        "alt": "photo",
+        "title": "Apples",
+        "tags": "food",
+        "text": "Food pics"
+    },
+    {
+        "path": "./img/pic2.jpg",
+        "alt": "photo",
+        "title": "Snake",
+        "tags": "animals",
+        "text": "Animal pics"
+    },
+    {
+        "path": "./img/pic3.jpg",
+        "alt": "photo",
+        "title": "SeaFood",
+        "tags": "food",
+        "text": "Food pics"
+    },
+    {
+        "path": "./img/pic4.jpg",
+        "alt": "photo",
+        "title": "Bird",
+        "tags": "animals",
+        "text": "Animal pics"
+    },
+    {
+        "path": "./img/pic6.jpg",
+        "alt": "photo",
+        "title": "Forest",
+        "tags": "nature",
+        "text": "Nature pics"
+    },
+    {
+        "path": "./img/pic7.jpg",
+        "alt": "photo",
+        "title": "Road",
+        "tags": "nature",
+        "text": "Nature pics"
+    },
+    {
+        "path": "./img/pic8.jpg",
+        "alt": "photo",
+        "title": "Desert",
+        "tags": "nature",
+        "text": "Nature pics"
+    },
+    {
+        "path": "./img/pic9.jpg",
+        "alt": "photo",
+        "title": "Sea",
+        "tags": "nature",
+        "text": "Nature pics"
+    },
+    {
+        "path": "./img/pic10.jpg",
+        "alt": "photo",
+        "title": "Dolphin",
+        "tags": "animals",
+        "text": "Animal pics"
+    },
+    {
+        "path": "./img/pic11.jpg",
+        "alt": "photo",
+        "title": "Burger",
+        "tags": "food",
+        "text": "Food pics"
+    },
+    {
+        "path": "./img/pic12.jpg",
+        "alt": "photo",
+        "title": "Eagle",
+        "tags": "animals",
+        "text": "Animal pics"
+    },
+    {
+        "path": "./img/pic13.jpg",
+        "alt": "photo",
+        "title": "Forestroad",
+        "tags": "nature",
+        "text": "Nature pics"
+    },
+    {
+        "path": "./img/pic14.jpg",
+        "alt": "photo",
+        "title": "Swan",
+        "tags": "animals",
+        "text": "Animal pics"
+    },
+    {
+        "path": "./img/pic15.jpg",
+        "alt": "photo",
+        "title": "Smog",
+        "tags": "nature",
+        "text": "Nature pics"
+    },
+    {
+        "path": "./img/pic16.jpg",
+        "alt": "photo",
+        "title": "Wave",
+        "tags": "nature",
+        "text": "Nature pics"
+    }
+]
